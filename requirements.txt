@@ -1,0 +1,10 @@
+streamlit
+scikit-learn
+openai
+openai
+python-dotenv
+python-dotenv
+pywin32
+pandas
+python-dateutil
+plotly

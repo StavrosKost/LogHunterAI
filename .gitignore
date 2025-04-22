@@ -1,0 +1,25 @@
+    # Virtual environment
+    venv/
+    .venv/
+    */venv/
+    */.venv/
+    env/
+    .env/ # Also exclude specific .env file if it contains secrets
+
+    # Python cache files
+    __pycache__/
+    *.pyc
+    *.pyo
+    *.pyd
+
+    # IDE/Editor specific files (examples)
+    .vscode/
+    .idea/
+
+    # Streamlit secrets (if used)
+    .streamlit/secrets.toml
+
+    # Example log data (add specific paths or patterns)
+    BGL/
+    # Or specifically:
+    # BGL/BGL.log
