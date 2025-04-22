@@ -2,7 +2,6 @@ streamlit
 scikit-learn
 openai
 python-dotenv
-//pywin32 it is not supported in streamlit
 pandas
 python-dateutil
 plotly
