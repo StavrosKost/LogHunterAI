@@ -103,6 +103,6 @@ LogHunter AI is an intelligent log analysis tool built with Python and Streamlit
 *(Optional: Add guidelines if you plan to accept contributions)*
 Currently, feedback and bug reports via GitHub Issues are most welcome!
 
-## License
-
-*(Optional: Add license information, e.g., MIT License)* 
+## A comment about the requirements.txt file
+pywin32 it is not supported in streamlit
+but i do use it inside the app to process windows log.
