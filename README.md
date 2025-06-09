@@ -98,8 +98,6 @@ LogHunter AI is an intelligent log analysis tool built with Python and Streamlit
 *   Refined error handling.
 
 ## Contributing
-
-*(Optional: Add guidelines if you plan to accept contributions)*
 Currently, feedback and bug reports via GitHub Issues are most welcome!
 
 ## A comment about the requirements.txt file
