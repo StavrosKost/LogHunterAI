@@ -42,8 +42,7 @@ LogHunter AI is an intelligent log analysis tool built with Python and Streamlit
 
 1.  **Clone the Repository:**
     ```bash
-    git clone [Your GitHub Repo URL]
-    cd [Your Repo Directory]
+    git clone https://github.com/StavrosKost/LogHunterAI.git
     ```
 2.  **Create a Virtual Environment (Recommended):**
     ```bash
